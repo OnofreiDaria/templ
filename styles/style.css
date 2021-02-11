@@ -1,0 +1,44 @@
+body {
+  font-size: 1rem;
+  color: #333;
+}
+.navbar {
+  padding: .5rem 0;
+}
+.navbar-collapse {
+  background-color: #ddd;
+  padding: 1rem;
+}
+.navbar-light .navbar-toggler {
+  border-color: transparent;
+}
+.nav-link {
+  color: #333;
+  padding: 0 1.5rem ;
+  line-height: 1;
+}
+.nav-item {
+  padding: 1rem 0;
+}
+.nav-link.divider {
+  border-right: 1px solid #ccc;
+}
+.btn_search {
+  width: 50px;
+  height: 50px;
+}
+.nav-link_footer,
+.nav-item_footer {
+  font-size: .85rem;
+  line-height: 1;
+  color: #333;
+}
+.nav-link_footer {
+  padding: 0 0.2rem;
+}
+.nav_footer {
+  border-bottom: 1px solid #333;
+}
+.nav-link_footer.divider {
+  border-right: 1px solid #333;
+}
